@@ -1,0 +1,27 @@
+{
+  "name": "electronlinux",
+  "version": "1.0.0",
+  "description": "Test Electron Linux",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaodematejr/electronLinux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaodematejr/electronLinux/issues"
+  },
+  "homepage": "https://github.com/joaodematejr/electronLinux#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  },
+  "dependencies": {
+    "node-printer": "^1.0.4",
+    "zuzel-printer": "^1.0.4"
+  }
+}
